@@ -1,6 +1,6 @@
 # 🎇 Interactive Rotating Spirals (OpenGL + GLUT)
 
-This is a fun and interactive C program using OpenGL and GLUT to render **rotating spiral patterns** with dynamic colors, scaling, and animation. Users can interact using the **keyboard and mouse** to change spiral types, count, colors, and more.
+This is a fun and interactive C program using OpenGL and GLUT to render **rotating spiral patterns** . Users can interact using the **keyboard and mouse** to change spiral types, count, colors, and more.
 
 ---
 
